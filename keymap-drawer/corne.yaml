@@ -59,7 +59,7 @@ layers:
   - )
   - BSPC
   - LCTRL
-  - {t: ▽, type: trans}
+  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
