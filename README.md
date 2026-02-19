@@ -11,7 +11,7 @@ The Ergomech Corne Wireless uses a Nice!Nano microcontroller and runs the ZMK fi
 ## Default keymap
 The default keymap of this keyboard can be found here:
 ![Default Keymap](./keymap-drawer/corne.svg)
-![Mapa]"./keymap-drawer/corne.svg"
+![Mapa]("./keymap-drawer/corne.svg")
 
 
 
