@@ -12,6 +12,8 @@ The Ergomech Corne Wireless uses a Nice!Nano microcontroller and runs the ZMK fi
 The default keymap of this keyboard can be found here:
 ![Default Keymap](./keymap-drawer/corne.svg)
 
+
+
 ## Flashing the Corne
 The ZMK cli tool would typically have you step through several questions to generate the necessary code to flash the firmware then upload it to a new repository on GitHub.
 However, Ergomech has already done this for you. You can find the repository [here](https://github.com/ergomechstore/corne-oled-zmk). Assuming you already have a GitHub account,
